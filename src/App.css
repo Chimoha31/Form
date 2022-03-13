@@ -18,6 +18,10 @@ form {
   background-color: #fff;
   padding: 0px 60px;
   border-radius: 10px;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
 }
 
 h1 {
